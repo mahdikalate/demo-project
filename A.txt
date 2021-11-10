@@ -1,2 +1,6 @@
 Changes were made
+<<<<<<< HEAD
 adding changes new line
+=======
+New changes were made
+>>>>>>> second
